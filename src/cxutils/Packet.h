@@ -51,6 +51,7 @@
 #include <vector>
 #include <list>
 #include "cxutils/CxBase.h"
+#include <cstring>
 
 #define CX_PACKET_BYTE_SWAP_16(a)   \
     (((a & 0xFF00) >> 8)|           \
