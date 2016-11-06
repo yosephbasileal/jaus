@@ -1,0 +1,23 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+JAUS/
+3rdParty/
+CMakeFiles/
+
+CxUtils/
+C_/
+
+cmake_install.cmake
+install_manifest.txt
+CMakeCache.txt
+
+Makefile
+
+lib/
